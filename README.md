@@ -2,7 +2,7 @@
 Я выпускник курса С++ Яндекс.Практикума
 
 Стек:
-C++, STL, Git, Unit Testing, ООП, Алгоритмы, Санитайзеры, Дебагинг, move-семантика, асинхронные вычисления
+C++, STL, Git, Cmake, Protobuf, Unit Testing, ООП, Алгоритмы, Санитайзеры, Дебагинг, move-семантика, асинхронные вычисления, forwarding reference
 <!--
 **Alexbit123/Alexbit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
